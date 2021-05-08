@@ -1,7 +1,7 @@
 # Vite Template React
 
 [![GitHub Release (latest by date)](https://img.shields.io/github/v/release/SafdarJamal/vite-template-react)](https://github.com/SafdarJamal/vite-template-react/releases)
-[![License](https://img.shields.io/github/license/SafdarJamal/vite-template-react)](https://github.com/SafdarJamal/vite-template-react/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/SafdarJamal/vite-template-react)](https://github.com/SafdarJamal/vite-template-react/blob/main/LICENSE)
 
 A [Vite](https://vitejs.dev) + [React](https://reactjs.org) starter template.
 
@@ -63,11 +63,11 @@ And then open http://localhost:3000 to view it in the browser.
 
 In this project, you can run the following scripts:
 
-| Script        | Description                                                             |
-| ------------- | ----------------------------------------------------------------------- |
-| npm run dev   | Runs the app in the development mode.                                 |
-| npm run build | Builds the app for production to the `dist` folder.          |
-| npm run serve | Serves the production build from the `dist` folder.
+| Script        | Description                                         |
+| ------------- | --------------------------------------------------- |
+| npm run dev   | Runs the app in the development mode.               |
+| npm run build | Builds the app for production to the `dist` folder. |
+| npm run serve | Serves the production build from the `dist` folder. |
 
 ## Credits
 
