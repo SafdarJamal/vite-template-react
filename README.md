@@ -65,3 +65,7 @@ In this project, you can run the following scripts:
 | npm run dev   | Runs the app in the development mode.                                 |
 | npm run build | Builds the app for production to the `dist` folder.          |
 | npm run serve | Serves the production build from the `dist` folder.
+
+## Credits
+
+Vite Template React is built and maintained by [Safdar Jamal](https://safdarjamal.github.io).
