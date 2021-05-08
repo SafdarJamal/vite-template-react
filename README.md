@@ -1,6 +1,9 @@
 # Vite Template React
 
-A Vite + React starter template.
+[![GitHub Release (latest by date)](https://img.shields.io/github/v/release/SafdarJamal/vite-template-react)](https://github.com/SafdarJamal/vite-template-react/releases)
+[![License](https://img.shields.io/github/license/SafdarJamal/vite-template-react)](https://github.com/SafdarJamal/vite-template-react/blob/master/LICENSE)
+
+A [Vite](https://vitejs.dev) + [React](https://reactjs.org) starter template.
 
 ## Folder Structure
 
