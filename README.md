@@ -1,9 +1,21 @@
-# Vite Template React
+<h1 align="center">
+  Vite Template React
+</h1>
 
-[![GitHub Release (latest by date)](https://img.shields.io/github/v/release/SafdarJamal/vite-template-react)](https://github.com/SafdarJamal/vite-template-react/releases)
-[![License](https://img.shields.io/github/license/SafdarJamal/vite-template-react)](https://github.com/SafdarJamal/vite-template-react/blob/main/LICENSE)
+<p align="center">
+  <a href="https://github.com/SafdarJamal/vite-template-react/releases">
+    <img src="https://img.shields.io/github/v/release/SafdarJamal/vite-template-react" alt="GitHub Release (latest by date)" />
+  </a>
+  <a href="https://github.com/SafdarJamal/vite-template-react/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/SafdarJamal/vite-template-react" alt="License" />
+  </a>
+</p>
 
-A [Vite](https://vitejs.dev) + [React](https://reactjs.org) starter template.
+<p align="center">
+    A <a href="https://vitejs.dev">Vite</a> + <a href="https://reactjs.org">React</a> starter template.
+</p>
+
+![Vite Template React](https://user-images.githubusercontent.com/48409548/130238925-9ffa2704-7e42-4d85-876d-44fefb6a1548.png)
 
 ## Folder Structure
 
