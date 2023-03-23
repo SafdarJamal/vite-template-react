@@ -2,8 +2,8 @@
   "name": "vite-template-react",
   "version": "1.2.0",
   "scripts": {
-    "start": "vite",
-    "dev": "vite",
+    "start": "vite --port 3000 --open",
+    "dev": "vite --port 3000 --open",
     "build": "vite build",
     "serve": "vite preview"
   },
