@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    A <a href="https://vitejs.dev">Vite</a> + <a href="https://reactjs.org">React</a> starter template.
+    A <a href="https://vitejs.dev">Vite</a> + <a href="https://react.dev">React</a> starter template.
 </p>
 
 ![Vite Template React](https://user-images.githubusercontent.com/48409548/130238925-9ffa2704-7e42-4d85-876d-44fefb6a1548.png)
