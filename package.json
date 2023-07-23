@@ -5,7 +5,8 @@
     "start": "vite --port 3000 --open",
     "dev": "vite --port 3000 --open",
     "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "test": "vitest"
   },
   "dependencies": {
     "react": "^18.2.0",
