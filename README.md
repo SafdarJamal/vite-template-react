@@ -30,9 +30,11 @@ vite-template-react
 └── src
     ├── App.css
     ├── App.jsx
+    ├── App.test.jsx
     ├── index.css
     ├── index.jsx
     └── logo.svg
+    └── setupTests.js
 ├── .gitignore
 ├── index.html
 ├── package.json
