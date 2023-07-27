@@ -15,7 +15,7 @@
     A <a href="https://vitejs.dev">Vite</a> + <a href="https://react.dev">React</a> starter template.
 </p>
 
-![Vite Template React](https://github.com/SafdarJamal/vite-template-react/assets/48409548/b7a9b524-a45e-4398-9b9e-b1f2e060e170)
+![Vite Template React](https://github.com/SafdarJamal/vite-template-react/assets/48409548/4b1eb99e-01b8-4752-91c0-76930e7948c1)
 
 ## Folder Structure
 
